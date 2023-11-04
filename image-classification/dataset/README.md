@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/alirezamohammadzade/quera-bootcamp-product-image-classification
