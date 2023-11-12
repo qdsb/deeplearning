@@ -2,4 +2,4 @@
 
 
 ## Power BI Files
-You can find the Power BI file here: [PowerBI PBIX](https://www.kaggle.com/datasets/alirezamohammadzade/quera-bootcamp-product-image-classification).
+You can find the Power BI file here: [PowerBI PBIX](https://drive.google.com/file/d/12MC4QN91kqygYQSKhGw0R1o4gat76lCe/view?usp=sharing).
